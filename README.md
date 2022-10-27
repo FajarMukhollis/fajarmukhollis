@@ -1,4 +1,4 @@
-# Hi there, I'm Fajar Mukhollis 👋
+# Hi there, I'm Fajar Mukhollis :wave:
 
 - :school: I'm a student at **Pancasila University, South Jakarta**
 - :iphone: Learning all about **Mobile Developer (Android Developer)**
