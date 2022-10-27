@@ -13,6 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FajarMukhollis&show_icons=true&theme=algolia)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FajarMukhollis&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FajarMukhollis&theme=algolia)](https://git.io/streak-stats)
 
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarMukhollis&theme=algolia)
