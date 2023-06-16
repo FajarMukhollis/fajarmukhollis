@@ -2,7 +2,6 @@
 
 - :school: I'm a student at **Pancasila University, South Jakarta**
 - :iphone: Learning all about **Mobile Developer (Android Developer)**
-- ⚡ Fun fact: **I am Wibu**
 
 ### :mailbox: **Get In Touch**
 
