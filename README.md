@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fajar Mukhollis</h1>
 <h3 align="center">I am a fresh graduate. I focus on being a Software Engineer, especially Mobile Developer. while I knowladge in various programming languages ​​such as Kotlin, C++ and PHP. and I also understand quite a lot about SQL.</h3>
 
-- 📫 How to reach me **fmukhollis@gmail.com**
+- 📫 How to reach me **mukhollisfajar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
