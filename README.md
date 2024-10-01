@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fajar Mukhollis</h1>
-<h3 align="center">I am a fresh graduate. I focus on being a Software Engineer, especially Mobile Developer. while I knowladge in various programming languages ​​such as Kotlin, C++ and PHP. and I also understand quite a lot about SQL.</h3>
+<h3 align="center">I'm focus on being a Software Engineer, especially Mobile Developer. while I knowladge in various programming languages ​​such as Kotlin. and I also understand quite a lot about SQL.</h3>
 
 - 📫 How to reach me **mukhollisfajar@gmail.com**
 
