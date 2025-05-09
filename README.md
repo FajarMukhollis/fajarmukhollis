@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fajar-mukhollis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fajar-mukhollis" height="30" width="40" /></a>
-<a href="https://instagram.com/choco.avocad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choco.avocad0" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fjrmkh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choco.avocad0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
